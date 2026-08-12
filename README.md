@@ -1,4 +1,4 @@
-# apply-less-search-more (PWP JobHunt)
+# apply-less-search-more 
 
 A personal job-search agent. It reads public ATS APIs every morning, throws away
 the ~99% that don't fit you, scores what's left against your resume, drafts an
